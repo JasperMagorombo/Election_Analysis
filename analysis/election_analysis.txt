@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Election Results
 -------------------------
@@ -21,3 +22,6 @@ Winner: Diana DeGette
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 -------------------------
+=======
+Hello World
+>>>>>>> 2606927a1c1610cfe599feb555918b1be081eb71
